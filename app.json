@@ -1,0 +1,12 @@
+{
+  "name": "foodPantry2",
+  "displayName": "foodPantry2",
+  "expo": {
+    "name": "foodPantry2",
+    "slug": "foodPantry2",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
